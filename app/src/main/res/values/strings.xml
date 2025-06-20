@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hyper Link</string>
+    <string name="hyperlink">Want to search anything?Click on the link\n<a href="https://www.google.com/">google.com</a></string>
+</resources>
